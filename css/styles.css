@@ -1,0 +1,46 @@
+body{
+    background-color:#08d9d6
+}
+
+hr{
+    background-color:#08d9d6 ;
+    border-style: dotted none none;
+    width: 5%;
+    height: 0px;
+    border-width: 5px;
+    border-color: lightslategray;
+
+}
+p{
+    color: #005082;
+}
+h1{
+    color: darkslategrey;
+}
+h2{
+    color: #005082;
+}
+h3{
+     color: #005082;
+ }
+h4{
+      color: #005082;
+  }
+h5{
+       color: #005082;
+   }
+h6{
+    color: #005082;
+}
+h7{
+    color: #005082;
+}
+.light{
+    background-color: blue;
+}
+.something{
+    background-color: #005082;
+}
+.light1{
+    color: red;
+}
