@@ -36,11 +36,21 @@ h7{
     color: #005082;
 }
 .light{
-    background-color: blue;
+    background-color: rebeccapurple;
 }
 .something{
     background-color: #005082;
+    border-radius: 100%;
+}
+.something:hover{
+    border-radius: 100px;
 }
 .light1{
     color: red;
+}
+#idea{
+    color: royalblue;
+}
+.light:hover{
+    background-color: royalblue;
 }
